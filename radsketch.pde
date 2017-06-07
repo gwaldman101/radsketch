@@ -6,7 +6,7 @@ void setup() {
   smooth();
   noStroke();
 
-  fill(0,255,0);
+  fill(0,255,200);
   rect(width/2 - 25, height/2 - 25, 50, 50);
 
   fill(255,0,0);
